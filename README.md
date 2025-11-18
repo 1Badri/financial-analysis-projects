@@ -58,7 +58,7 @@ Financial-Analysis-Project/
 
 🚀 How to Run the Project
 1️⃣ Clone the Repository
-git clone 
+git clone https://github.com/Dilli57/financial-analysis-projects.git
 cd Financial-Analysis-Project
 
 2️⃣ Install Dependencies
@@ -95,4 +95,4 @@ Feel free to open issues or submit pull requests.
 
 🔗 LinkedIn: https://www.linkedin.com/in/dilli-babu-2b943522b/
 
-🐙 GitHub: 
+🐙 GitHub: https://github.com/Dilli57
